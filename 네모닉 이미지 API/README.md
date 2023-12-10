@@ -1,4 +1,7 @@
+![Nemonic API drawio](https://github.com/SSstupid/Portfolio/assets/90036120/e88ed2a2-4722-419b-9825-dd6d18212c93)
+
 ## 네모닉 이미지 API
+
 메모지 프린터인 Nemonic에 전달 할 이미지 생성 및 명령어로 변환하는 기능입니다.
 해당 라이브러리는 Server에 추가되어 윈도우, 모바일 등 다양한 기기와 앱에서 사용 할 수 있습니다. 이미지 생성 라이브러리를 사용해 이미지 사이즈를 용지에 맞게 크기를 설정하고, 분절, 회전 등의 기능을 제공합니다.  Given-When-Then Pattern을 활용한 Unit Test 코드를 작성했습니다.
 
